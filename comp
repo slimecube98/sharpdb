@@ -70,6 +70,20 @@
           51.1957192
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Amazon Warehouse",
+        "Address": "7002 Old Bingham Hwy, South Jordan, UT 84095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.826579,
+          40.5661578
+        ]
+      }
     }
   ]
 }
