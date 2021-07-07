@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "Title": "Google Office Munich ALT",
-        "Address": "Maximilianstraße 13, 80539 München"
+        "Address": "Maximilianstraße 13, 80539 München",
+        "Description": ""
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +34,8 @@
       "type": "Feature",
       "properties": {
         "Title": "Bubble Group, Inc",
-        "Address": "\t900 Broadway, New York City, New York 10003, US"
+        "Address": "900 Broadway, New York City, New York 10003, US",
+        "Description": "Bubble’s drag-and-drop editor makes design and development easy."
       },
       "geometry": {
         "type": "Point",
