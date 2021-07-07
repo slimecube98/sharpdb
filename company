@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Google Office Munich ALT",
+        "Address": "Maximilianstraße 13, 80539 München",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5773785,
+          48.1385677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Amazon",
+        "Address": "Domagkstraße 28, 80807 München"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.593506,
+          48.1830664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Bubble Group, Inc",
+        "Address": "900 Broadway, New York City, New York 10003, US",
+        "Description": "Bubble’s drag-and-drop editor makes design and development easy."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991763,
+          40.7388636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Microsoft Corporation",
+        "Address": "833 E Michigan St #860, Milwaukee, WI 53202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.352528,
+          38.8965254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "CD Projekt S.A.",
+        "Address": "Jagiellońska 74, 03-301 Warszawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4179749,
+          51.1957192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Amazon Warehouse",
+        "Address": "7002 Old Bingham Hwy, South Jordan, UT 84095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.826579,
+          40.5661578
+        ]
+      }
+    }
+  ]
+}
