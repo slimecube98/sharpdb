@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Google Office Munich ALT",
+        "Address": "Maximilianstraße 13, 80539 München"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5773785,
+          48.1385677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Amazon",
+        "Address": "Domagkstraße 28, 80807 München"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.593506,
+          48.1830664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Bubble Group, Inc",
+        "Address": "\t900 Broadway, New York City, New York 10003, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991763,
+          40.7388636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Microsoft Corporation",
+        "Address": "833 E Michigan St #860, Milwaukee, WI 53202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.352528,
+          38.8965254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "CD Projekt S.A.",
+        "Address": "Jagiellońska 74, 03-301 Warszawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4179749,
+          51.1957192
+        ]
+      }
+    }
+  ]
+}
